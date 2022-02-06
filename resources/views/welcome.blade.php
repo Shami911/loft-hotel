@@ -26,7 +26,7 @@
 
           <div class="col-xl-6 col-lg-6 d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <div class="box-heading" data-aos="fade-up">
-              <h4>ЖДЕМ ВАС</h4>
+              <h4>ЖДЕМ ВАС!</h4>
               <h3>Приглашаем Вас в наш гостевой дом «LOFT».</h3>
               <p>Современный гостевой дом "LOFT" является отличным выбором для любителей искусства, дизайна и технологий.</p>
             </div>
