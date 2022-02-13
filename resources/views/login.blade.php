@@ -11,7 +11,7 @@
     <input type="email" name="email"  value="{{old('title')}}" id="email" placeholder="email"class="mb-1"><br>
     @error('password')<div class="text-danger">Вы не ввели пароль </div>@enderror
     <input type="password" name="password" value="{{old('content')}}" id="password" placeholder="password" class="mb-1"><br>
-    <button id="add">Войти</button>
+    <button id="add">Войти в аккаунт</button>
 </form>
 
 </div>
